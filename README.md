@@ -1,8 +1,13 @@
 # Introduction to AWS EC2
 
 This summary is for Introduction AWS EC2
+<!--- Open YT in same tab  -->  
+<!--- #[![Introduction AWS EC2](https://img.youtube.com/vi/YRCZ1jt36uo/0.jpg)](https://www.youtube.com/watch?v=YRCZ1jt36uo)   -->  
 
-[![Introduction AWS EC2](https://img.youtube.com/vi/YRCZ1jt36uo/0.jpg)](https://www.youtube.com/watch?v=YRCZ1jt36uo){:target="_blank"}
+<!--- Open YT in new tab  -->  
+<a href="https://www.youtube.com/watch?v=YRCZ1jt36uo" target="_blank">
+  <img src="https://img.youtube.com/vi/YRCZ1jt36uo/0.jpg" alt="AWS EC2">
+</a>
 
  ### Session Introduction 
  The session begins with a warm welcome to all attendees, followed by a brief introduction to AWS EC2. The speaker also highlights some essential points, such as attendees being muted by default during the session and the availability of a question and answer session at the end of the presentation. 
